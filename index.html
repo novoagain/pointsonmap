@@ -68,7 +68,7 @@
                 .attr("d", path);
 
     }).then(function drawpoints() {
-	fetch("raw/cities_tsv.txt").then(cities => {
+	fetch("https://raw.githubusercontent.com/novoagain/pointsonmap/master/data/cities_tsv.txt?token=AJWZXM7GSHH45D4TYJ3BWQS46TFT6").then(cities => {
 		return cities.arrayBuffer();
 	}).then(buffer => {
 		result = '';
