@@ -50,7 +50,7 @@
 
     var path = d3.geoPath().projection(projection);
 
-    d3.json("/$lab/Russia_simplified_topo.json").then(map => {
+    d3.json("https://gist.githubusercontent.com/novoagain/1ba16ed97ba8dc23b59b2c4360194f28/raw/c2065c611da23651a5c65c74980f56a6643d2cd1/Russia_simplified_topo.json").then(map => {
 
            //Drawing Choropleth
             var m = svg.append("g")
