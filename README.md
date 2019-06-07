@@ -12,7 +12,7 @@ The [map](https://gist.github.com/novoagain/1ba16ed97ba8dc23b59b2c4360194f28) of
 
 
 ## To test the code
-The gist with `index.html` page of this project could be [tested](https://bl.ocks.org/novoagain/raw/2fddc384a1f06fdbbe7affc85a9d9b4d/) with the help of [bl.ocks.org](bl.ocks.org).
+The gist with `index.html` page of this project could be [tested](https://bl.ocks.org/novoagain/raw/2fddc384a1f06fdbbe7affc85a9d9b4d/) with the help of [bl.ocks.org](https://bl.ocks.org/).
 
 ## License
 The code is available under the MIT license.
