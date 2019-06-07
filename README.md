@@ -10,7 +10,7 @@ Text in the file should be in win-1251 encoding - the default export format for 
 The map of the Russian Federation shows all of its 85 regions. It's in topojson format and displayed by d3.js in Equal Conic projection named Albers Russia. While the datum is stored in the WGS84 format.
 
 ## To test the code
-`index.html` page of this project could be tested with the help of [bl.ocks.org](bl.ocks.org). The [link](https://bl.ocks.org/novoagain/raw/2fddc384a1f06fdbbe7affc85a9d9b4d/).
+`index.html` page of this project could be [tested](https://bl.ocks.org/novoagain/raw/2fddc384a1f06fdbbe7affc85a9d9b4d/) with the help of [bl.ocks.org](bl.ocks.org).
 
 ## License
 The code is available under the [MIT](https://mths.be/mit) license.
