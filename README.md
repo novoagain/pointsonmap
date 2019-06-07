@@ -1,2 +1,2 @@
 # pointsonmap
-'Choose file' dialog to download points on a map from tsv file. The map is Russian Federation.
+The project presents a simple html page with a Russia map that hase a choose file button. 
